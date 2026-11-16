@@ -1,71 +1,72 @@
 <div align="center">
 
+<img src="docs/hero.png" alt="Glass Dock sur Windows 11" width="100%">
+
 # Glass Dock
 
-**Un dock sombre façon *liquid glass* qui remplace la barre des tâches de Windows 11.**
+### La barre des tâches que Windows aurait dû avoir.
 
-[![Télécharger Glass Dock](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Glass%20Dock%20pour%20Windows-ffffff?style=for-the-badge&logo=windows&logoColor=111111&labelColor=e6e6e6)](https://github.com/Nixouuu/glass-dock/releases/latest/download/Glass-Dock-Setup.exe)
-
-<sub>Windows 10/11 · gratuit · mises à jour automatiques · par nixouuu</sub>
+Un dock en verre sombre, fluide et animé, qui remplace la barre des tâches de Windows 10 et 11.
 
 <br>
 
-<img src="docs/dock.png" alt="Le dock" width="900">
+[![Télécharger pour Windows](https://img.shields.io/badge/Télécharger_pour_Windows-gratuit-ffffff?style=for-the-badge&logo=windows11&logoColor=111111&labelColor=e9e9ef)](https://github.com/Nixouuu/glass-dock/releases/latest/download/Glass-Dock-Setup.exe)
+
+<sub>Gratuit · Sans compte · Mises à jour automatiques · Désinstallation propre</sub>
+
+[![Version](https://img.shields.io/github/v/release/Nixouuu/glass-dock?style=flat-square&label=version&color=7b5cff)](https://github.com/Nixouuu/glass-dock/releases/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/Nixouuu/glass-dock/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1fd1f9)](https://github.com/Nixouuu/glass-dock/releases)
 
 </div>
 
-## Nouveau : Glass Live
+<br>
 
-La pastille à gauche du dock montre ce qui se passe en ce moment : la musique, un minuteur, tes écouteurs.
-**Glisse-la vers le haut ou le bas** pour passer de l'un à l'autre (elle suit ta souris).
+|  |  |
+|---|---|
+| 🪟 **Un vrai dock**<br>Effet loupe, icônes qui rebondissent, halo de lumière au survol. Tes apps épinglées et ouvertes, au même endroit. | ✨ **Glass Live**<br>Ta musique, un minuteur, la batterie de tes AirPods. Glisse la pastille pour passer de l'un à l'autre. |
+| 🎛️ **Centre de contrôle**<br>Wi-Fi, Bluetooth, son, luminosité, minuteur. Tout est à un clic, sans fouiller dans les paramètres. | ⚡ **Touche Windows**<br>Le dock apparaît par-dessus tout, même en plein écran. Le menu Apps trouve n'importe quelle app dès que tu tapes. |
 
 <div align="center">
-
-<img src="docs/live-timer.png" alt="Glass Live : minuteur" width="760">
-
-<img src="docs/live-bt.png" alt="Glass Live : AirPods" width="760">
-
+<br>
+<img src="docs/live.png" alt="Glass Live : musique, minuteur, AirPods" width="100%">
 </div>
 
-- **AirPods et écouteurs Bluetooth** : batterie gauche, droite et boîtier (avec [MagicPods](https://apps.microsoft.com/search?query=magicpods) installé), sinon la batterie que Windows connaît. Connecter ou déconnecter en un clic.
-- **Minuteur** : lance-le depuis le centre de contrôle, il reste visible à côté du dock.
+## Installer en 30 secondes
 
-## Ce que ça fait
+1. **[Télécharge Glass Dock](https://github.com/Nixouuu/glass-dock/releases/latest/download/Glass-Dock-Setup.exe)**.
+2. Ouvre le fichier et suis l'accueil (Rapide ou Personnaliser).
+3. C'est tout. Les nouvelles versions arrivent toutes seules.
 
-- **Dock avec effet loupe** : tes apps épinglées, puis les apps ouvertes, triées par utilisation récente. Icônes en cascade, halo au survol, onde au clic.
-- **Touche Windows** : le dock apparaît par-dessus tout, même en plein écran. Un clic ailleurs le range.
-- **Menu « Toutes les apps »** : tu tapes direct pour chercher, et la recherche couvre toutes les apps du PC.
-- **Centre de contrôle** : Wi-Fi (connexion, mot de passe, déconnexion), Bluetooth, son (SteelSeries Sonar pris en charge), luminosité des écrans, minuteur, capture, alimentation.
-- **Clic droit sur une app** : exécuter en tant qu'administrateur, ou la quitter pour de vrai (même Discord caché près de l'horloge).
-- **Lecteur musique** : pastille à côté du dock dès que ça joue (Spotify, YouTube…), avec la pochette et les couleurs de l'album.
-- **Appels** : une pastille pour revenir à ton appel Discord, Teams, Zoom…
-- **Plusieurs écrans** : petite horloge discrète sur les autres écrans, et les apps restent sur leur écran.
-- **Désinstallation propre** : la barre des tâches de Windows revient comme avant.
+> Windows peut afficher « Windows a protégé votre ordinateur » : c'est normal pour une app indépendante, pas encore signée. Clique **Informations complémentaires**, puis **Exécuter quand même**.
+
+## Questions
+
+<details>
+<summary><b>Est-ce que ça touche à mes données ?</b></summary>
+<br>
+Non. Glass Dock tourne seulement sur ton PC. Aucun compte, aucune pub, rien n'est envoyé. La seule connexion sert à vérifier s'il y a une nouvelle version.
+</details>
+
+<details>
+<summary><b>Et si je veux revenir à la barre des tâches de Windows ?</b></summary>
+<br>
+Paramètres Windows → Applications → <b>Glass Dock</b> → Désinstaller. La barre des tâches revient exactement comme avant.
+</details>
+
+<details>
+<summary><b>Ça marche avec mes AirPods ?</b></summary>
+<br>
+Oui : connecter et déconnecter en un clic. Avec <a href="https://apps.microsoft.com/search?query=magicpods">MagicPods</a> installé, tu vois aussi la batterie gauche, droite et du boîtier.
+</details>
+
+<details>
+<summary><b>Comment je reçois les nouveautés ?</b></summary>
+<br>
+Automatiquement : le dock te propose de redémarrer, puis te montre ce qui a changé. Toutes les versions sont dans les <a href="https://github.com/Nixouuu/glass-dock/releases">Releases</a>.
+</details>
+
+<br>
 
 <div align="center">
-
-<img src="docs/launcher.png" alt="Toutes les apps" width="760">
-
-<img src="docs/control.png" alt="Centre de contrôle" width="300"> <img src="docs/music.png" alt="Lecteur musique" width="300"> <img src="docs/calendar.png" alt="Calendrier" width="260">
-
-<img src="docs/bluetooth.png" alt="Bluetooth" width="300"> <img src="docs/wifi.png" alt="Wi-Fi" width="300">
-
-<img src="docs/power.png" alt="Menu Apps et alimentation" width="760">
-
+<sub>Fait avec soin par <b>nixouuu</b> · <a href="https://github.com/Nixouuu/glass-dock/releases">Nouveautés</a></sub>
 </div>
-
-## Installer
-
-1. Télécharge **[Glass-Dock-Setup.exe](https://github.com/Nixouuu/glass-dock/releases/latest/download/Glass-Dock-Setup.exe)**.
-2. Lance-le. Si Windows affiche « Windows a protégé votre ordinateur », clique **Informations complémentaires** puis **Exécuter quand même** (l'app n'est pas signée, c'est normal pour un petit projet).
-3. Choisis **Rapide** ou **Personnaliser**, et c'est parti.
-
-Les mises à jour arrivent toutes seules : le dock te propose de redémarrer, puis te montre ce qui est nouveau.
-
-<div align="center">
-<img src="docs/welcome.png" alt="Accueil" width="620">
-</div>
-
-## Désinstaller
-
-Paramètres Windows → Applications → **Glass Dock** → Désinstaller. La barre des tâches revient comme avant.

@@ -4,6 +4,8 @@
 
 # Glass Dock
 
+<sub>🇫🇷 Français · <a href="README.en.md">🇬🇧 English</a></sub>
+
 ### La barre des tâches que Windows aurait dû avoir.
 
 Un dock en verre sombre, fluide et animé, qui remplace la barre des tâches de Windows 10 et 11.
@@ -61,6 +63,18 @@ Paramètres Windows → Applications → <b>Glass Dock</b> → Désinstaller. La
 <summary><b>Ça marche avec mes AirPods ?</b></summary>
 <br>
 Oui : connecter et déconnecter en un clic. Avec <a href="https://apps.microsoft.com/search?query=magicpods">MagicPods</a> installé, tu vois aussi la batterie gauche, droite et du boîtier.
+</details>
+
+<details>
+<summary><b>J'utilise SteelSeries Sonar, ça marche ?</b></summary>
+<br>
+Oui ! Glass Dock contrôle Sonar directement : volume général et mix Jeu / Chat / Média / Aux / Micro dans le centre de contrôle. Sans Sonar, il utilise le volume de Windows.
+</details>
+
+<details>
+<summary><b>C'est en anglais aussi ?</b></summary>
+<br>
+Oui : Glass Dock est en français et en anglais. Il prend la langue de Windows, et tu peux changer dans les Réglages.
 </details>
 
 <details>

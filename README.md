@@ -14,6 +14,10 @@ Un dock en verre sombre, fluide et animé, qui remplace la barre des tâches de 
 
 <sub>Gratuit · Sans compte · Mises à jour automatiques · Désinstallation propre</sub>
 
+<br>
+
+[![Offrir un café](https://img.shields.io/badge/Offrir_un_caf%C3%A9-Ko--fi-ff5e5b?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/glassdock)
+
 [![Version](https://img.shields.io/github/v/release/Nixouuu/glass-dock?style=flat-square&label=version&color=7b5cff)](https://github.com/Nixouuu/glass-dock/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Nixouuu/glass-dock/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1fd1f9)](https://github.com/Nixouuu/glass-dock/releases)
 
@@ -60,6 +64,12 @@ Oui : connecter et déconnecter en un clic. Avec <a href="https://apps.microsoft
 </details>
 
 <details>
+<summary><b>C'est vraiment gratuit ?</b></summary>
+<br>
+Oui, et ça va le rester. Pas de pub, pas de version payante. Si tu aimes Glass Dock, tu peux <a href="https://ko-fi.com/glassdock">m'offrir un café sur Ko-fi</a> : totalement optionnel, ça m'aide à continuer.
+</details>
+
+<details>
 <summary><b>Comment je reçois les nouveautés ?</b></summary>
 <br>
 Automatiquement : le dock te propose de redémarrer, puis te montre ce qui a changé. Toutes les versions sont dans les <a href="https://github.com/Nixouuu/glass-dock/releases">Releases</a>.
@@ -68,5 +78,5 @@ Automatiquement : le dock te propose de redémarrer, puis te montre ce qui a cha
 <br>
 
 <div align="center">
-<sub>Fait avec soin par <b>nixouuu</b> · <a href="https://github.com/Nixouuu/glass-dock/releases">Nouveautés</a></sub>
+<sub>Fait avec soin par <b>nixouuu</b> · <a href="https://github.com/Nixouuu/glass-dock/releases">Nouveautés</a> · <a href="https://ko-fi.com/glassdock">☕ Soutenir</a></sub>
 </div>

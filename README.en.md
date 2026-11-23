@@ -22,6 +22,7 @@ A dark glass dock, smooth and animated, that replaces the Windows 10 and 11 task
 
 [![Version](https://img.shields.io/github/v/release/Nixouuu/glass-dock?style=flat-square&label=version&color=7b5cff)](https://github.com/Nixouuu/glass-dock/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Nixouuu/glass-dock/total?style=flat-square&label=downloads&color=1fd1f9)](https://github.com/Nixouuu/glass-dock/releases)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0_detections-2ea043?style=flat-square&logo=virustotal&logoColor=white)](SECURITY.md)
 
 </div>
 

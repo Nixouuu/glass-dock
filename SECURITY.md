@@ -10,6 +10,7 @@ Chaque version de l'installeur est analysée par environ 70 antivirus sur VirusT
 
 | Version | Résultat | Empreinte SHA-256 de `Glass-Dock-Setup.exe` |
 |---|---|---|
+| 1.2.6 | ✅ [0 détection](https://www.virustotal.com/gui/file/8741c18d6b25a98962c7cb2fc69226c4fdb256936887de0876fc5889f2e80338/detection) | `8741C18D6B25A98962C7CB2FC69226C4FDB256936887DE0876FC5889F2E80338` |
 | 1.2.5 | ✅ [0 détection](https://www.virustotal.com/gui/file/686324eb4a8c87490cb3ca7204a77d77431bb1a5f80f357e0f8ead7b2f44ae9d/detection) | `686324EB4A8C87490CB3CA7204A77D77431BB1A5F80F357E0F8EAD7B2F44AE9D` |
 | 1.2.4 | ✅ [0 détection](https://www.virustotal.com/gui/file/490328f6a1a14d0d5b93b05a6ee3ff0a9659e643e11398d15d86ab40a5a070fe/detection) | `490328F6A1A14D0D5B93B05A6EE3FF0A9659E643E11398D15D86AB40A5A070FE` |
 | 1.2.3 | ✅ [0 détection](https://www.virustotal.com/gui/file/9a733be65dcb3c28bd1ed9f6bb983a7a553a202c7146e81124431f602b118d54/detection) | `9A733BE65DCB3C28BD1ED9F6BB983A7A553A202C7146E81124431F602B118D54` |
@@ -52,6 +53,7 @@ Every installer release is scanned by about 70 antivirus engines on VirusTotal.
 
 | Version | Result | SHA-256 of `Glass-Dock-Setup.exe` |
 |---|---|---|
+| 1.2.6 | ✅ [0 detections](https://www.virustotal.com/gui/file/8741c18d6b25a98962c7cb2fc69226c4fdb256936887de0876fc5889f2e80338/detection) | `8741C18D6B25A98962C7CB2FC69226C4FDB256936887DE0876FC5889F2E80338` |
 | 1.2.5 | ✅ [0 detections](https://www.virustotal.com/gui/file/686324eb4a8c87490cb3ca7204a77d77431bb1a5f80f357e0f8ead7b2f44ae9d/detection) | `686324EB4A8C87490CB3CA7204A77D77431BB1A5F80F357E0F8EAD7B2F44AE9D` |
 | 1.2.4 | ✅ [0 detections](https://www.virustotal.com/gui/file/490328f6a1a14d0d5b93b05a6ee3ff0a9659e643e11398d15d86ab40a5a070fe/detection) | `490328F6A1A14D0D5B93B05A6EE3FF0A9659E643E11398D15D86AB40A5A070FE` |
 | 1.2.3 | ✅ [0 detections](https://www.virustotal.com/gui/file/9a733be65dcb3c28bd1ed9f6bb983a7a553a202c7146e81124431f602b118d54/detection) | `9A733BE65DCB3C28BD1ED9F6BB983A7A553A202C7146E81124431F602B118D54` |

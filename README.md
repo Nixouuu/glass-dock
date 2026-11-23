@@ -22,6 +22,7 @@ Un dock en verre sombre, fluide et animé, qui remplace la barre des tâches de 
 
 [![Version](https://img.shields.io/github/v/release/Nixouuu/glass-dock?style=flat-square&label=version&color=7b5cff)](https://github.com/Nixouuu/glass-dock/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Nixouuu/glass-dock/total?style=flat-square&label=t%C3%A9l%C3%A9chargements&color=1fd1f9)](https://github.com/Nixouuu/glass-dock/releases)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0_d%C3%A9tection-2ea043?style=flat-square&logo=virustotal&logoColor=white)](SECURITY.md)
 
 </div>
 
